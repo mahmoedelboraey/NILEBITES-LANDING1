@@ -17,6 +17,6 @@ NileBites is a modern, responsive landing page for a startup restaurant. It is d
 - Clean and organized project structure using strict Git workflow.
 
 ## 🚀 How to Run the Project
-1. Clone the repository: `git clone <git@github.com:mahmoedelboraey/nilebites-landing.git>`
+1. Clone the repository: `git clone <git@github.com:mahmoedelboraey/NILEBITES-LANDING1.git>`
 2. Navigate to the project folder: `cd nilebites-landing`
 3. Open `index.html` in your favorite web browser (or use VS Code Live Server).
